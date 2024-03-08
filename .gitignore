@@ -1,0 +1,8 @@
+*.abi
+*.wasm
+*.js
+*.json
+
+tests
+node_modules
+build
